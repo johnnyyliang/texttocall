@@ -1,0 +1,6 @@
+# Go build files
+bootstrap
+deployment.zip
+
+# Mac files
+.DS_Store
